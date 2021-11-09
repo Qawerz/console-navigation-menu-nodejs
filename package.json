@@ -1,0 +1,12 @@
+{
+  "name": "console-navigation-menu-nodejs",
+  "version": "0.0.1",
+  "description": "Simple navigation menu w/ Node js",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js"
+  },
+  "keywords": ["terminal", "input", "nodejs"],
+  "author": "Qawerz <alex.qawerz@yandex.ru> (htps://qawerz.github.io/)",
+  "license": "MIT"
+}
